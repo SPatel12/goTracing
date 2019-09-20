@@ -6,6 +6,7 @@ import (
 
 	"github.com/opentracing/opentracing-go/log"
 	"github.com/yurishkuro/opentracing-tutorial/go/lib/tracing"
+
 )
 
 func main() {
